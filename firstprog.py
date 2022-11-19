@@ -1,3 +1,4 @@
-a = 1
-b=23
-print(a + b)
+a = int(input())
+b= int(input())
+c = a+b
+print(c)
